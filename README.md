@@ -21,3 +21,7 @@ MATTIE.msgAPI.showAnim(1,10,"/animatedFace/",10)
 
 For iamges 1.png through 5.png within /faces/anim/, with 10fps:  
 MATTIE.msgAPI.showAnim(1,5,"/anim/",100)  
+
+
+# demo
+https://youtu.be/ryUlC15neJY?si=_Nz2WIzIEQydFZHw
